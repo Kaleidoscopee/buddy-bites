@@ -1,3 +1,42 @@
+# Progress
+
+8/7/23 - 
+-Created npx create-react-app buddy-bites
+-deleted unneccesary files and created first component using (https://www.youtube.com/watch?v=eyFWr9zpylM)
+as a refrence
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
