@@ -31,6 +31,7 @@ taking tons of notes and filling my knowledge gaps. Have to make an attempt to a
 -commented out api component for now to show class it rendered at the very least
 -used css for body to style a bit (orange)
 -added jsx elements plan
+-used previous project as a refrence guide to fetch api(https://github.com/Kaleidoscopee/movie-api)
 
 
 
