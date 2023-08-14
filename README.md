@@ -4,14 +4,27 @@
 -Created npx create-react-app buddy-bites
 -deleted unneccesary files and created first component using (https://www.youtube.com/watch?v=eyFWr9zpylM)
 as a refrence
--
+
+8/9/23
+Had a hard time knowing where to start, so I've been going over the core fundamentals of html, css, js, and dom
+
+8/10/23
+Tried  multiple code alongs, but none of it seems to be sticking, realized i'm in tutorial hell
 
 
+8/11/23
+Trying to follow along with the inclass movie code along again with some concepts losing me and tring to understand them
 
+8/12/123
+Going through code academy to redo React exercises starting with completing JSX
 
+8/13/23
+Have notebook full of JSX notes, and actually have an understanding of what direction I'm headed now as I complete the 
+compenents, props, and hooks section of code academy
 
-
-
+8/14/23
+Studying through the night, took too long trying to restudy the material, but wouldn't have been able to know where to start without 
+taking tons of notes and filling my knowledge gaps. Have to make an attempt to at the very least meet MVP. 
 
 
 
