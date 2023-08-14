@@ -26,6 +26,9 @@ compenents, props, and hooks section of code academy
 Studying through the night, took too long trying to restudy the material, but wouldn't have been able to know where to start without 
 taking tons of notes and filling my knowledge gaps. Have to make an attempt to at the very least meet MVP. 
 
+-Attempted to update css, but not changing. BiteBiddy still rendering
+-Api not connecting and unsure if I put the JavaScript fetch in the wrong place. 
+
 
 
 
