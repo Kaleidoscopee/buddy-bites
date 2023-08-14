@@ -28,6 +28,7 @@ taking tons of notes and filling my knowledge gaps. Have to make an attempt to a
 
 -Attempted to update css, but not changing. BiteBiddy still rendering
 -Api not connecting and unsure if I put the JavaScript fetch in the wrong place. 
+-commented out api component for now to show class it rendered at the very least
 
 
 
