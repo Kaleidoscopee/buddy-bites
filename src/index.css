@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.biteBuddy {
+  background-size: 100%;
+  background-color: orangered;
+  margin: 10, 0,;
+}
