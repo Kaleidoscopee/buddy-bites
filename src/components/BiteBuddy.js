@@ -2,7 +2,9 @@ import React from 'react'
 
 function BiteBuddy() {
   return (
-    <div>BiteBuddy</div>
+    <div>
+      <h1>BiteBuddy</h1>
+    </div>
   )
 }
 
