@@ -4,33 +4,33 @@ import "./index.css" // used https://www.w3schools.com/react/react_css.asp as a 
 
 function App() {
 
-  const apiKey = ''
-  const [food, setFood] = useState(null);
+  // const apiKey = ''
+  // const [food, setFood] = useState(null);
 
-  const getFood = async (searchTerm) => {
-    try {
-      const response = await fetch(/*website with api key and pass through values */);
-      const food = await response.json();
-      setFood(food)
+  // const getFood = async (searchTerm) => {
+  //   try {
+  //     const response = await fetch(/*website with api key and pass through values */);
+  //     const food = await response.json();
+  //     setFood(food)
 
-    } catch (error) {
-      console.log(error)
-    }
-  }
+  //   } catch (error) {
+  //     console.log(error)
+  //   }
+  // }
 
-  useEffect(()=> {
-    getFood('Burrito')
-  })
+  // useEffect(()=> {
+  //   getFood('Burrito')
+  // })
 
-  return(
-    <>
-      <Form foodSearch={getFood}/>
-      <FoodDisplay food ={food}/>
+  // return(
+  //   <>
+  //     <Form foodSearch={getFood}/>
+  //     <FoodDisplay food ={food}/>
 
 
     
-    </>
-  );
+  //   </>
+  // );
 
 
 
